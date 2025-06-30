@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/masonwba4/lightbottest/refs/heads/main/tnt-sports-1-uk.png?token=GHSAT0AAAAAADE7CNGEGM2SCCCVRJEV5M642DCWHVQ" group-title="Sports", TNT Sports 1
+http://100.115.92.202:8089/proxy?https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8
